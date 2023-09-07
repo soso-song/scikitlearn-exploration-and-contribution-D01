@@ -26,8 +26,7 @@ Our team aims to contribute to scikit-learn by addressing the following five iss
 
 **Team**
 
-Full Name    UTORID  Email (utoronto only)
-Zhifei Song   songzhif  [kyles.song@mail.utoronto.ca](mailto:kyles.song@mail.utoronto.ca)
+Zhifei Song   songzhif  [soso.song@mail.utoronto.ca](mailto:soso.song@mail.utoronto.ca)
 
 Kevin Zhu    zhukevi6  [kaiwen.zhu@mail.utoronto.ca](mailto:kaiwen.zhu@mail.utoronto.ca)
 
